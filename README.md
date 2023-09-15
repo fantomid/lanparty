@@ -9,7 +9,7 @@ Sur ubuntu / debian :
       hedgewars 0ad supertuxkart \
       minetest gcompris fretsonfire \
       openarena openarena-server armagetronad \
-      kobodeluxe
+      kobodeluxe redeclipse freeciv
 
 Texte du dépliant pour les visiteurs dans [jeux.md](jeux.md)
 
