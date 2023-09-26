@@ -4,6 +4,7 @@ Pour déployer une lan party
 
 Sur ubuntu / debian :
 
+    jeux.md:
     sudo apt install \
     wesnoth teeworlds teeworlds-server \
     hedgewars 0ad supertuxkart \
@@ -11,6 +12,7 @@ Sur ubuntu / debian :
     openarena openarena-server armagetronad \
     kobodeluxe
 
+    jeux-2023.md:
     sudo apt install \
       wesnoth teeworlds teeworlds-server \
       hedgewars 0ad supertuxkart \
