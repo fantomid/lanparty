@@ -12,13 +12,14 @@ Sur ubuntu / debian :
     openarena openarena-server armagetronad \
     kobodeluxe
 
-    jeux-2023.md:
+    jeux-2023.md (ubuntu 22.04):
     sudo apt install \
       wesnoth teeworlds teeworlds-server \
       hedgewars 0ad supertuxkart \
-      minetest gcompris fretsonfire \
+      minetest gcompris-qt \
       openarena openarena-server armagetronad \
       kobodeluxe redeclipse freeciv
+    sudo snap install frets-on-fire
 
 Texte du dépliant pour les visiteurs dans [jeux.md](jeux.md) et [jeux-2023.md](jeux-2023.md)
 
